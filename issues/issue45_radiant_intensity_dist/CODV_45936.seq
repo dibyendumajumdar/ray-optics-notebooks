@@ -1,0 +1,26 @@
+RDM;LEN       "VERSION: 11.2 SR1       LENS VERSION: 84       Creation Date: 01-May-2019"
+TITLE '45936 Half Ball Lens'
+EPD   8.0
+DIM   M
+WL    587.56
+REF   1
+WTW   1
+TEM   20.0
+INI   'EO '
+XAN   0.0
+YAN   0.0
+WTF   1.0
+VUY   0.0
+VLY   0.0
+SO    0.0 0.1e14
+S     4.0 4.0 BK7_SCHOTT
+  STO
+  SLB "45936"
+  CIR 4.0
+  CIR EDG 4.0
+S     0.0 5.102805826066204
+  CIR 4.0
+  CIR EDG 4.0
+  PIM
+SI    0.0 0.0
+GO 

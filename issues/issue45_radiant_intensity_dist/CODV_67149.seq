@@ -1,0 +1,22 @@
+RDM;LEN       "VERSION: 11.2 SR1       LENS VERSION: 84       Creation Date: 03-May-2019"
+TITLE '67149'
+EPD   9.0
+DIM   M
+WL    587.56
+REF   1
+WTW   1
+INI   'EO '
+XAN   0.0
+YAN   0.0
+WTF   1.0
+VUY   0.0
+VLY   0.0
+SO    0.0 0.1e14
+S     46.51000000000006 2.0 NBK7_SCHOTT
+  STO
+  SLB "67149"
+  CIR 4.05
+S     0.0 88.67754561528987
+  PIM
+SI    0.0 0.0
+GO 
